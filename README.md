@@ -14,13 +14,13 @@ After the dataset is thoroughly wrangled, the following key insights are generat
 
 - Correlated columns: The columns are correlatively checked, some has very strong correaltions while some also have low correlations, below explains that better:
 
-> Budget and Popularity (Moderately correlated)
-Budget and Vote counts (Strong correlated)
-Budget and Returns (Moderately Correlated)
-Popularity and Vote counts (Very Strong Correlation)
-Vote counts and Return (Very Strong Correlation)
-Returns and Popularity (Strong Correlation)
-Popularity and Runtime (Low Correlation)
-Budget and Runtime (Low Correlation)
-Vote counts and Runtime (Low Correlation)
-Returns and Runtime (Low Correlation
+1. Budget and Popularity (Moderately correlated)
+2. Budget and Vote counts (Strong correlated)
+3. Budget and Returns (Moderately Correlated)
+4. Popularity and Vote counts (Very Strong Correlation)
+5. Vote counts and Return (Very Strong Correlation)
+6. Returns and Popularity (Strong Correlation)
+7. Popularity and Runtime (Low Correlation)
+8. Budget and Runtime (Low Correlation)
+9. Vote counts and Runtime (Low Correlation)
+10. Returns and Runtime (Low Correlation
