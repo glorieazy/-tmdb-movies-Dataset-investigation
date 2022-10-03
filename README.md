@@ -14,7 +14,7 @@ After the dataset is thoroughly wrangled, the following key insights are generat
 
 - Correlated columns: The columns are correlatively checked, some has very strong correaltions while some also have low correlations, below explains that better:
 
->> Budget and Popularity (Moderately correlated)
+> Budget and Popularity (Moderately correlated)
 Budget and Vote counts (Strong correlated)
 Budget and Returns (Moderately Correlated)
 Popularity and Vote counts (Very Strong Correlation)
